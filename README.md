@@ -1,17 +1,22 @@
 # proyecto-PB
-PROYECTO FINAL PROGRAMACIÓN BÁSICA: #2 Voto Electrónico
+**PROYECTO FINAL PROGRAMACIÓN BÁSICA: #2 Voto Electrónico**
 
-UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS
-				          	2022
+**UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS**
                     
-Autoras: 
-		-Heylin Daniela Hernández Pérez
-		-Laura Daniela Muñoz Ipus
-		-Ana Laura Morcote Chacón
-		
-Docente: Fernando Martínez Rodriguez
+## Autoras: 
+-Heylin Daniela Hernández Pérez
 
-Descripción: Este programa hecho con el lenguaje C++ simula un puesto de votaciones en una ciudad. Consta de 4 archivos: InterfazProyectoFinal, formInscripcion, formVotacion, y muestraResultados.
+-Laura Daniela Muñoz Ipus
+
+-Ana Laura Morcote Chacón
+		
+## Docente:
+Fernando Martínez Rodriguez
+
+## Descripción: 
+Este programa hecho con el lenguaje **C++** simula un puesto de votaciones en una ciudad. Consta de 4 archivos: **InterfazProyectoFinal, formInscripcion, formVotacion,** y **muestraResultados.** Emplea archivos **.txt** para el manejo de datos, así mismo hace uso de elementos cómo: **estructuras, ciclos, condicionales, arreglos,** entre otros. 
+
+## Estructura de los archivos con los que trabajan los programas
 
 ***ESTRUCTURA DEL TXT (inscritos)***
 
